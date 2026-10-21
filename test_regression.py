@@ -4,3 +4,5 @@ def test_regression():
     expected = 10
 
     assert predicted == expected
+
+# First automated CI test
